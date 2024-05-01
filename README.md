@@ -1,6 +1,6 @@
 # AdventureWorks_Report-PowerBI
 
-This report was done as a portfolio project by *Sridhar Reddy* to showcase my data analyst skills.
+This report was done as a portfolio project by me to showcase my data analyst skills.
 
 ## About the report :-
 

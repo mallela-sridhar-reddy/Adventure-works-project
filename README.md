@@ -1,3 +1,5 @@
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNGM2NGU2YzUtMGNhZC00OTgxLWE5MGEtMjEyNTJkMmQyMmFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 # AdventureWorks_Report-PowerBI
 
 This report was done as a portfolio project by me to showcase my data analyst skills.
